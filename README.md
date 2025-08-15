@@ -2,7 +2,7 @@
 
 Migrating from manually managed AWS infrastructure to a fully automated Infrastructure as Code (IaC) setup using AWS CDK (TypeScript), improving security, scalability, and compliance for healthcare operations. 
 
-Chek out my full project documentation on [Medium!] (https://medium.com/@tjackson3457/migrating-pulselogics-aws-infrastructure-with-aws-cdk-typescript-from-manual-console-1e460d636d5b)
+Check out my full project documentation on [Medium!](https://medium.com/@tjackson3457/migrating-pulselogics-aws-infrastructure-with-aws-cdk-typescript-from-manual-console-1e460d636d5b)
 
 ---
 
