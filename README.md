@@ -39,7 +39,7 @@ I re-engineered the environment using **AWS CDK** with **TypeScript**, applying 
 
 ## **🏗️ Project Architecture**
 
-![PulseLogic AWS Migration Solution](https://raw.githubusercontent.com/USERNAME/REPO/main/images/PulseLogic_Architecture.jpeg)
+![PulseLogic AWS Migration Solution](https://raw.githubusercontent.com/tjackson141/PulseLogic_Migration/main/images/PulseLogic_Architecture.jpeg)
 
 ---
 
